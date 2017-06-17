@@ -1,0 +1,3 @@
+Primary=body_a_parts.tga
+Alpha=body_a_parts.tga
+Tile=st

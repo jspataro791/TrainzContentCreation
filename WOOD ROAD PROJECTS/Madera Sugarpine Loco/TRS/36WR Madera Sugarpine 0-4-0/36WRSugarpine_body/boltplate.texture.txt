@@ -1,0 +1,2 @@
+Primary=boltplate.tga
+Tile=st

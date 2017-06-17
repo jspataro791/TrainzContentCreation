@@ -1,0 +1,44 @@
+kind							"traincar"
+kuid							<kuid:191774:2101>
+bogey							<kuid:191774:2103>
+bogey-1							<kuid:-10:149>
+bogey-2							<kuid:191774:2102>
+engine							1
+asset-filename						"PLP&P 2-6-6-2 Mallet Front"
+fonts							1
+light							1
+light_color						255,230,145
+name							"PLP&P 2-6-6-2 Mallet Front"
+mass							150000
+company							"PLP&P 2-6-6-2 Mallet Front"
+origin							"US"
+running-numbers {
+}
+enginespec						<kuid:86661:51012>
+enginesound						<kuid:86661:53012>
+hornsound						<kuid2:43955:54004:1>
+obsolete-table {
+}
+trainz-build						2.4
+
+mesh-table {
+	default {
+		mesh					"plppmalletfront_body/malletfront.im"
+		auto-create				1
+	}
+	additions {
+		mesh					"plppmalletfront_body/malletadditions.im"
+		auto-create				1
+	}
+	
+	
+}
+kuid-table {
+	0						<kuid:191774:2102>
+	1						<kuid:-10:149>
+	2						<kuid:86661:51012>
+	3						<kuid:86661:53012>
+	4						<kuid2:43955:54004:1>	
+	5						<kuid:191774:2103>
+
+}

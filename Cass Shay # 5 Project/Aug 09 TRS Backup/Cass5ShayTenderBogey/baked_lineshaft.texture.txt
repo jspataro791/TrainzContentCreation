@@ -1,0 +1,2 @@
+Primary=baked_lineshaft.tga
+Tile=st

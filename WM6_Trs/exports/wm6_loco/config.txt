@@ -1,0 +1,139 @@
+kuid                                      <kuid:191774:66793>
+username                                  "WM 6 Shay Unit"
+kind                                      "traincar"
+trainz-build                              2.9
+engine                                    1
+enginespec                                <kuid:191774:66783>
+enginesound                               <kuid:191774:60603>
+hornsound                                 <kuid:191774:66781>
+mesh-table {
+  default {
+    mesh                                  "wm6_loco_body/wm6_body.im"
+    auto-create                           1
+  }
+  shadow {
+    mesh                                  "wm6_loco_body\shadow.im"
+  }
+}
+bogeys {
+  0 {
+    bogey                                 <kuid:191774:66794>
+    reversed                              0
+  }
+  1 {
+    bogey                                 <kuid:191774:66795>
+    reversed                              0
+  }
+  2 {
+    bogey                                 <kuid:191774:66796>
+    reversed                              0
+    sideplay-permitted                    0
+    rotation-permitted                    0
+  }
+}
+light_color                               255,246,143
+mass                                      20000
+max-tractive-effort                       2e+006
+smoke0 {
+  attachment                              "a.turbo"
+  mode                                    "time"
+  color                                   255,255,255,150
+  rate                                    25
+  velocity                                1
+  lifetime                                0.6
+  minsize                                 0.1
+  maxsize                                 0.5
+}
+smoke1 {
+  attachment                              "a.whistle"
+  mode                                    "whistle"
+  color                                   240,240,240,240
+  rate                                    50
+  velocity                                11
+  lifetime                                .6
+  minsize                                 0.3
+  maxsize                                 1
+  inherit-velocity                        1
+  conesize                                0.5,0.5,3
+}
+smoke2 {
+  attachment                              "a.safety"
+  mode                                    "lowpressurevalve"
+  color                                   255,255,255,150
+  rate                                    25
+  velocity                                2
+  lifetime                                0.5
+  minsize                                 0.05
+  maxsize                                 0.5
+}
+smoke3 {
+  attachment                              "a.stack"
+  mode                                    "speed"
+  start                                   0,0.15
+  accel                                   -0.2,0.3,0.3
+  color                                   30,30,30,180
+  endcolor                                30,30,30,50
+  rate                                    15,35
+  velocity                                2,5
+  lifetime                                8,15
+  minsize                                 0.3
+  maxsize                                 3,6
+}
+smoke4 {
+  attachment                              "a.stack"
+  mode                                    "speed"
+  start                                   0.15
+  accel                                   -0.2,0.3,0.3
+  color                                   200,200,200,180
+  endcolor                                200,200,200,50
+  rate                                    35
+  velocity                                5
+  lifetime                                15
+  minsize                                 0.3
+  maxsize                                 6
+}
+smoke5 {
+  attachment                              "a.blowdown"
+  mode                                    "speed"
+  start                                   0,0.1,1.6,2
+  color                                   255,255,255,150
+  rate                                    10,15,35,0
+  velocity                                1,2,3,4
+  lifetime                                0.5,1,1.5,0
+  minsize                                 0.02
+  maxsize                                 1
+  inherit-velocity                        1
+}
+smoke6 {
+  attachment                              "a.safety"
+  mode                                    "highpressurevalve"
+  color                                   255,255,255,100
+  endcolor                                255,255,255,255
+  rate                                    50
+  velocity                                10
+  lifetime                                0.3
+  minsize                                 0.2
+  maxsize                                 0.8
+  inherit-velocity                        1
+  conesize                                0.5,0.5,3
+}
+smoke_height                              2
+smoke_random                              0
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}
+kuid-table {
+  0                                       <kuid:191774:66783>
+  1                                       <kuid2:126323:53051:2>
+  2                                       <kuid:191774:66781>
+  3                                       <kuid:191774:66794>
+  4                                       <kuid:191774:66795>
+  5                                       <kuid:191774:66796>
+  6                                       <kuid:-10:172>
+}

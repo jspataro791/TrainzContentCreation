@@ -1,0 +1,2 @@
+Primary=baked_plate.tga
+Tile=st

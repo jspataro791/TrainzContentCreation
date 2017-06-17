@@ -1,0 +1,21 @@
+kuid                                      <kuid:191774:66795>
+username                                  "wm6_rear_bogey"
+kind                                      "bogey"
+trainz-build                              2.9
+mesh-table {
+  wm6_tender_bogey {
+    mesh                                  "rear_truck.im"
+    auto-create                           1
+  }
+}
+animdist                                  1.8
+direct-drive                              1
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

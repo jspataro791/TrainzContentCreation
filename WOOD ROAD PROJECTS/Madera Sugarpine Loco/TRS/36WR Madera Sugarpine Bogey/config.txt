@@ -1,0 +1,38 @@
+﻿
+kuid							<kuid:191774:215>
+animdist						3
+mesh-table {
+	default {
+		mesh					"36WRSugarpine_bogey.IM"
+		auto-create				1
+	}
+}
+obsolete-table {
+}
+trainz-build						2
+category-class						"ZB"
+category-region-0					"USA"
+category-era-0						"1890s"
+asset-filename						"36WRSugarpine_bogey"
+description						"36WRSugarpine_bogey"
+username						"36WRSugarpine_bogey"
+author							"John Spataro"
+organisation						"ZapperWorks"
+contact-email						"zapperjet@yahoo.com"
+contact-website						""
+license							"Do not sell this. Do not claim it as your own. Do not redistribute without permission. If you want it modified, contact me.
+
+All items are made as is, no warranty is included nor implied. I doubt this would cause any damage to your computer, but if it does, neither I, nor Auran may be held responsible."
+kind							"bogey"
+kuid-table {
+}
+username-fr						"Gilpin 2 bogey 0"
+description-fr						"Gilpin 2 bogey 1"
+username-nl						"Gilpin 2 bogey 0"
+description-nl						"Gilpin 2 bogey 1"
+username-cz						"Gilpin 2 bogey 0"
+description-cz						"Gilpin 2 bogey 1"
+username-es						"Gilpin 2 bogie 0"
+description-es						"Gilpin 2 bogie 1"
+username-ru						"Gilpin 2 тележка 0"
+description-ru						"Gilpin 2 тележка 1"

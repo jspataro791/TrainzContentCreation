@@ -1,0 +1,49 @@
+LOGFILE for TrainzMeshImporter (FINAL), at Sun Jun 14 11:09:53 2009
+ 
+. Info: Process started. This may take some time. Please wait...
+. Info: Reading input file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\climaxtestbogey.xml'
+. Info: Read Mesh
+. Info: Read Materials
+. Info: Read Skeleton
+. Info: Read Animation (1)
+. Info: Finished reading input file
+. Info: Filled Mesh Geometry
+. Info: Filled Materials
+. Info: Filled Attachments
+. Info: Filled Skeleton
+. Info: Filled Mesh
+. Info: Converting formats and optimizing...
+. Info: (internal progress) Building chunks
+. Info: (internal progress) Optimizing chunks
+. Info: (internal progress) Extracting mesh influence
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\solidgray.texture.txt'
+. Info: Wrote IM file 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\climaxtestbogey.im' with:
+numTriangles=7080
+numVertices=13507
+numChunks=18
+numAttachments=0
+skeleton = false (non-rigid will set 'false')
+influenceArray = true
+
+. Info: Wrote KIN file 'C:\Documents and Settings\JTCommandCenter\Desktop\testclimaxbog\climaxtestbogey.kin' with:
+tracks: 30
+frames: 29
+
+. Info: Process completed after 981 Milliseconds with 0 errors and 0 warnings

@@ -1,0 +1,62 @@
+kuid							<kuid:191774:505>
+origin							"USA"
+bogey							<kuid:-10:149>
+bogey-1							<kuid:-10:149>
+bogey-2							<kuid:191774:504>
+engine							0
+name							"Cass Railroad Shay #5 Tender"
+mass							10000
+light							1
+nightmode						"lamp"
+light_color						255,230,145
+company							"Cass Scenic Railroad"
+kind							"traincar"
+tender                                                  1
+enginespec						<kuid:-1:42004201>
+description                                             "Tender unit for Cass Shay #5"
+
+queues {
+	load-water {
+		size					13247
+		initial-count				13247
+		product-kuid				<kuid:-3:10004>
+	}
+}
+
+mesh-table {
+	default {
+		mesh					"cass5shaytender_body/cass5shaytender.IM"
+		auto-create				1
+	}
+}
+						
+category-region-0					"US"
+category-region-1					"AU"
+category-region-2					"NZ"
+category-region-3					"CA"
+category-era-0						"1940s"
+category-era-1						"1930s"
+category-era-2						"1920s"
+category-era-3						"1910s"
+category-era-4						"1900s"
+category-era-5						"1890s"
+category-era-6						"1880s"
+category-era-7						"1870s"
+category-class						"XSU"
+asset-filename						"cass5shaytender"
+obsolete-table {
+}
+trainz-build						1.5
+thumbnail						
+username						"cass5shaytender"
+author							"John Spataro"
+organisation						"ZapperWorks3d"
+contact-email						"zapperjet@yahoo.com"
+contact-website						
+license							"Released for public consumption with only a request that you use my name if you release content with my textures provided with these items."
+kuid-table {
+	0						<kuid:191774:504>
+	1						<kuid:-1:42004201>
+	2						<kuid:-10:149>
+	3						<kuid:-10:149>
+}

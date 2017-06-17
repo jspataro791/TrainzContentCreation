@@ -1,0 +1,23 @@
+﻿
+kuid							<kuid:191774:506>
+kind							"hornsound"
+two-part						1
+obsolete-table {
+}
+description						"Cass 5 Shay Whistle"
+trainz-build						2.4
+category-class						"ZH"
+category-region-0					"US"
+category-era-0						"1910s"
+category-era-1						"1920s"
+category-era-2						"1930s"
+category-era-3						"1940s"
+category-era-4						"1950s"
+username						"Cass 5 Shay Whistle"
+author							"John Spataro"
+organisation						"ZapperWorks3d"
+contact-email						"zapperjet@yahoo.com"
+license							"Feel free to modify the textures if you are modeling a different road.  However, please do not re-distribute the model without my permission and this original readme file.  Please e-mail me if you have any questions.  Thanks for downloading my models and I hope you enjoy them."
+asset-filename						"Cass5shaywhistle"
+kuid-table {
+}

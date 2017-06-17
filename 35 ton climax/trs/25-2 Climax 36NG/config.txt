@@ -1,0 +1,180 @@
+kuid                                      <kuid:191774:21601>
+username                                  "25-2 Climax 36NG"
+kind                                      "traincar"
+trainz-build                              2.9
+engine                                    1
+enginespec                                <kuid:191774:21606>
+enginesound                               <kuid2:126323:53052:1>
+hornsound                                 <kuid:191774:21607>
+interior                                  <kuid:-3:10191>
+mesh-table {
+  default {
+    mesh                                  "climax_body.im"
+    auto-create                           1
+  }
+  shadow {
+    mesh                                  "shadow.im"
+  }
+}
+bogeys {
+  0 {
+    bogey                                 <kuid:191774:21602>
+    reversed                              0
+  }
+  1 {
+    bogey                                 <kuid:191774:21604>
+    reversed                              0
+  }
+  2 {
+    bogey                                 <kuid:191774:21603>
+    reversed                              0
+    sideplay-permitted                    0
+    rotation-permitted                    0
+  }
+  3 {
+    bogey                                 <kuid:191774:21608>
+    reversed                              0
+    sideplay-permitted                    0
+    rotation-permitted                    0
+  }
+}
+
+light_color                               255,246,143
+mass                                      25401.2
+max-coupler-gap                           0.05
+max-tractive-effort                       21458
+smoke0 {
+  attachment                              "a.turbo"
+  mode                                    "generator"
+  color                                   255,255,255,150
+  rate                                    50
+  velocity                                1.2
+  lifetime                                0.6
+  minsize                                 0.05
+  maxsize                                 0.2
+  conesize                                0.2,0.2,2
+  inherit-velocity                        1
+}
+smoke1 {
+  attachment                              "a.whistle"
+  mode                                    "whistle"
+  color                                   240,240,240,240
+  rate                                    50
+  velocity                                8
+  lifetime                                .3
+  minsize                                 0.2
+  maxsize                                 0.7
+  inherit-velocity                        1
+  conesize                                0.5,0.5,3
+}
+smoke2 {
+  attachment                              "a.safety"
+  mode                                    "lowpressurevalve"
+  color                                   255,255,255,50
+  endcolor                                255,255,255,100
+  rate                                    50
+  velocity                                10
+  lifetime                                0.3
+  minsize                                 0.2
+  maxsize                                 0.8
+  inherit-velocity                        1
+  conesize                                0.5,0.5,3
+}
+smoke3 {
+  attachment                              "a.stack"
+  mode                                    "speed"
+  start                                   0,0.15
+  color                                   75,75,75,180
+  endcolor                                75,75,75,50
+  rate                                    15,35
+  velocity                                2,5
+  lifetime                                8,15
+  minsize                                 0.6
+  maxsize                                 3,6
+}
+smoke4 {
+  attachment                              "a.stack"
+  mode                                    "speed"
+  start                                   0.15
+  color                                   200,200,200,75
+  endcolor                                200,200,200,125
+  rate                                    35
+  velocity                                5
+  lifetime                                15
+  minsize                                 0.6
+  maxsize                                 6
+}
+smoke5 {
+  attachment                              "a.cock1f"
+  mode                                    "speed"
+  start                                   0,0.2,0.5,0.89
+  color                                   255,255,255,150
+  rate                                    5,10,15,0
+  velocity                                0.3,1,1.5,2.3
+  lifetime                                1,1.5,2,0
+  minsize                                 0.02
+  maxsize                                 0.5
+  inherit-velocity                        1
+}
+smoke6 {
+  attachment                              "a.cock2f"
+  mode                                    "speed"
+  start                                   0,0.2,0.5,0.89
+  color                                   255,255,255,150
+  rate                                    5,10,15,0
+  velocity                                0.3,1,1.5,2.3
+  lifetime                                1,1.5,2,0
+  minsize                                 0.02
+  maxsize                                 0.5
+  inherit-velocity                        1
+}
+smoke7 {
+  attachment                              "a.cock1d"
+  mode                                    "speed"
+  start                                   0,0.2,0.5,0.89
+  color                                   255,255,255,150
+  rate                                    5,10,15,0
+  velocity                                0.3,1,1.5,2.3
+  lifetime                                1,1.5,2,0
+  minsize                                 0.02
+  maxsize                                 0.5
+  inherit-velocity                        1
+}
+smoke8 {
+  attachment                              "a.cock2d"
+  mode                                    "speed"
+  start                                   0,0.2,0.5,0.89
+  color                                   255,255,255,150
+  rate                                    5,10,15,0
+  velocity                                0.3,1,1.5,2.3
+  lifetime                                1,1.5,2,0
+  minsize                                 0.02
+  maxsize                                 0.5
+  inherit-velocity                        1
+}
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}
+queues {
+  load-coal {
+    size                                  9144
+    initial-count                         9144
+    product-kuid                          <kuid:44179:60013>
+  }
+  load-water {
+    size                                  22730
+    initial-count                         22730
+    product-kuid                          <kuid:-3:10004>
+  }
+}
+extensions
+{
+max_permitted_speed-60850 "7mph"
+}
+

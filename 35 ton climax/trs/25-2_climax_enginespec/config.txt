@@ -1,0 +1,151 @@
+kuid                                      <kuid:191774:21606>
+username                                  "25-2_climax_enginespec"
+kind                                      "steam-engine"
+trainz-build                              2.9
+flowsize
+{
+  trainbrakepipe                        170000
+  epreservoirpipe                       0.1
+  no3pipe                               0.1
+  no4pipe                               0.1
+  auxreservoirvent                      0.1
+  auxreservoir_no3                      0.1
+  auxreservoir_trainbrakepipe           0.1
+  autobrakecylindervent                 0.1
+  auxreservoir_autobrakecylinder        0.1
+  equaliser_mainreservoir               0.06
+  equaliservent                         0.06
+  equaliserventhandleoff                0.1
+  equaliserventemergency                0.1
+  no3pipevent                           1.5
+  no3pipe_mainreservoir                 0.1
+  compressor                            10
+  trainbrakepipe_reservoir              1
+  trainbrakepipevent                    0.06
+  no3pipe_autobrakecylinder             0.1
+  epreservoirpipe_autobrakecylinder     0.1
+  mainreservoir_ep                      0.1
+  vacuumbrakepipe                       0.1
+  vacuumbrakepipereleasevent            0.1
+  vacuumbrakepipevent                   0.1
+  vacuumbrakereservoir_vacuumbrakepipe  0.1
+  vacuumbrakecylinder_vacuumbrakepipe   0.1
+  highspeedexhauster_vacuumbrakepipe    0.1
+}
+
+volume
+{
+  scale                                 1
+  trainbrakepipe                        0.2
+  epreservoirpipe                       0.2
+  no3pipe                               0.2
+  no4pipe                               0.2
+  auxreservoir                          0.0384678
+  autobrakecylinder                     0.00969387
+  vacuumbrakepipe                       0
+  vacuumbrakereservoir                  0
+  vacuumbrakecylinder                   0
+  mainreservoir                         2
+  equaliser                             0.5
+  independantbrakecylinder              0.0103239
+}
+
+pressure
+{
+  scale                                 1
+  compressor                            0.00911791
+  mainreservoir                         0.00911791
+  highspeedexhauster                    0
+  brakepipe                             0.00595441
+  brakeinitial                          0.00560291
+  brakefull                             0.00398601
+  indbrakefull                          0.00398601
+  trainbrakepipe_start                  0.00440781
+  epreservoirpipe_start                 0
+  no3pipe_start                         0
+  no4pipe_start                         0
+  auxreservoir_start                    0.00504051
+  autobrakecylinder_start               0.00489991
+  vacuumbrakepipe_start                 0
+  vacuumbrakereservoir_start            0
+  vacuumbrakecylinder_start             0
+  mainreservoir_start                   0.00876641
+  equaliser_start                       0.00440781
+  independantbrakecylinder_start        0.00489991
+}
+
+mass
+{
+  scale                                 1
+  fuel                                  "6.2156e+006"
+}
+
+motor
+{
+  resistance                            1.75
+  adhesion                              50000
+  maxvoltage                            600
+  maxspeed                              4
+  brakeratio                            55000
+  max-accel                             3000
+  max-decel                             4000
+  throttle-notches                      16
+  axle-count                            4
+  surface-area                          82
+  moving-friction-coefficient           0.03
+  air-drag-coefficient                  0.0025
+  driving-wheel-weight-ratio            0.42
+}
+
+steam
+{
+ firebox-heating-surface-area           7.41
+ boiler-volume                          1.55
+ steam-chest-volume                     0.0818
+ steam-chest-max-flow                   17.02
+ max-fire-temperature                   755.5
+ min-fire-temperature                   642.4
+ initial-boiler-temperature             466.5
+ max-coal-mass                          324
+ ideal-coal-mass                        162
+ shovel-coal-mass                       6.5
+ safety-valve-low-pressure              1495
+ safety-valve-high-pressure             1525
+ safety-valve-low-flow                  0.36
+ safety-valve-high-flow                 1.09
+ water-injector-rate                    0.6
+ piston-volume-min                      0.004560
+ piston-volume-max                      0.095768
+ piston-area                            0.14593
+ burn-rate                              0.273
+ burn-rate-idle                         0.00273
+ speed                                  4.29
+ blower-max-flow                        0.027
+ firebox-thermal-conductivity           17
+ super-heating-constant                 100
+ firebox-efficiency                     0.8
+ blower-effect                          0.1
+ boiler-efficency                       1
+ boiler-efficency-min                   1
+ boiler-efficency-idle                  1
+ valve-lap-percent                      0.1
+ cutoff                                 0.55
+ piston-angular-offsets                 0.0174,1.5254,3.0333,4.5413 
+
+
+
+
+
+}
+category-class                            "ZE"
+description                               "35-2_climax_enginespec"
+author                                    "John Spataro"
+license                                   "Placeholder"
+organisation                              "Zapperworks"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

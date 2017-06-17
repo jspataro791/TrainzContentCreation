@@ -1,0 +1,142 @@
+kuid                                    <kuid:191774:66783>
+username                                "C160-3 shay"
+kind                                    "steam-engine"
+trainz-build                            2.9
+flowsize
+flowsize
+{
+  trainbrakepipe                        170000
+  epreservoirpipe                       0.1
+  no3pipe                               0.1
+  no4pipe                               0.1
+  auxreservoirvent                      0.1
+  auxreservoir_no3                      0.1
+  auxreservoir_trainbrakepipe           0.1
+  autobrakecylindervent                 0.1
+  auxreservoir_autobrakecylinder        0.1
+  equaliser_mainreservoir               0.06
+  equaliservent                         0.06
+  equaliserventhandleoff                0.1
+  equaliserventemergency                0.1
+  no3pipevent                           1.5
+  no3pipe_mainreservoir                 0.1
+  compressor                            5
+  trainbrakepipe_reservoir              1
+  trainbrakepipevent                    0.06
+  no3pipe_autobrakecylinder             0.1
+  epreservoirpipe_autobrakecylinder     0.1
+  mainreservoir_ep                      0.1
+  vacuumbrakepipe                       0.1
+  vacuumbrakepipereleasevent            0.1
+  vacuumbrakepipevent                   0.1
+  vacuumbrakereservoir_vacuumbrakepipe  0.1
+  vacuumbrakecylinder_vacuumbrakepipe   0.1
+  highspeedexhauster_vacuumbrakepipe    0.1
+}
+
+volume
+{
+  scale                                 1
+  trainbrakepipe                        0.2
+  epreservoirpipe                       0.2
+  no3pipe                               0.2
+  no4pipe                               0.2
+  auxreservoir                          0.0384678
+  autobrakecylinder                     0.00969387
+  vacuumbrakepipe                       0
+  vacuumbrakereservoir                  0
+  vacuumbrakecylinder                   0
+  mainreservoir                         1
+  equaliser                             0.5
+  independantbrakecylinder              0.0103239
+}
+
+pressure
+{
+  scale                                 1
+  compressor                            0.00946941
+  mainreservoir                         0.00946941
+  highspeedexhauster                    0
+  brakepipe                             0.00595441
+  brakeinitial                          0.00560291
+  brakefull                             0.00398601
+  indbrakefull                          0.00398601
+  trainbrakepipe_start                  0.00440781
+  epreservoirpipe_start                 0
+  no3pipe_start                         0
+  no4pipe_start                         0
+  auxreservoir_start                    0.00504051
+  autobrakecylinder_start               0.00489991
+  vacuumbrakepipe_start                 0
+  vacuumbrakereservoir_start            0
+  vacuumbrakecylinder_start             0
+  mainreservoir_start                   0.00876641
+  equaliser_start                       0.00440781
+  independantbrakecylinder_start        0.00489991
+}
+
+mass
+{
+  scale                                 1
+  fuel                                  "6.2156e+006"
+}
+
+motor
+{
+  resistance                            1
+  adhesion                              25
+  maxvoltage                            600
+  maxspeed                              10
+  brakeratio                            60000
+  max-accel                             30000
+  max-decel                             40000
+  axle-count                            6
+  surface-area                          80
+  moving-friction-coefficient           0.02
+  air-drag-coefficient                  0.0001
+  throttle-notches                      2
+}
+
+steam
+{
+  firebox-heating-surface-area          27.77
+  boiler-volume                         15.29
+  steam-chest-volume                    0.2667
+  steam-chest-max-flow                  167.79
+  max-fire-temperature                  759.9
+  min-fire-temperature                  503.5
+  initial-boiler-temperature            470.9
+  max-coal-mass                         1016
+  ideal-coal-mass                       508
+  shovel-coal-mass                      20.3
+  safety-valve-low-pressure             1634
+  safety-valve-high-pressure            1667
+  safety-valve-low-flow                 3.59
+  safety-valve-high-flow                10.76
+  water-injector-rate                   5.93
+  water-injector-rate2                  5.93
+  piston-volume-min                     0.004459
+  piston-volume-max                     0.093633
+  piston-area                           0.27438
+  burn-rate                             0.858
+  burn-rate-idle                        0.00858
+  speed                                 39.34
+  blower-max-flow                       0.086
+  piston-angular-offsets                0.1,2.194,4.289
+  firebox-thermal-conductivity          17
+  super-heating-constant                100
+  firebox-efficiency                    0.8
+  blower-effect                         0.1
+  valve-lap-percent                     0.1
+  cutoff                                0.55
+}
+
+category-class                          "ZE"
+description                             "C160-3 shay enginespec"
+author                                  "Ben Neal"
+license                                 "Placeholder"
+organisation                            "Zapperworks"
+
+kuid-table
+{
+}

@@ -1,0 +1,2 @@
+Primary=baked_engine_body.tga
+Tile=st

@@ -1,0 +1,3 @@
+Primary=tendershadow.tga
+Alpha=tendershadow.tga
+Tile=st

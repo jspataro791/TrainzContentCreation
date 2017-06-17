@@ -1,0 +1,3 @@
+Primary=glass.tga
+Alpha=glass.tga
+Tile=st

@@ -1,0 +1,41 @@
+LOGFILE for TrainzMeshImporter (FINAL), at Sat Jun 27 21:57:46 2009
+ 
+. Info: Process started. This may take some time. Please wait...
+. Info: Reading input file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\56PLclimax.xml'
+. Info: Read Mesh
+. Info: Read Materials
+. Info: Finished reading input file
+. Info: Filled Mesh Geometry
+. Info: Filled Materials
+. Info: Filled Attachments
+. Info: Filled Skeleton
+. Info: Filled Mesh
+. Info: Converting formats and optimizing...
+. Info: (internal progress) Building chunks
+. Info: (internal progress) Optimizing chunks
+. Info: (internal) Mesh limits exceeded, 15 chunks split into 16 chunks.
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\locoshadow-locoshadow.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\greygreasy.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\number-number.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\cabinsides.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\tanksidings.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\boiler.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\linedmetal.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\white.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\lamp.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\glass-glass.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\bell.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\cabinfrontback.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\numplate.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\pinelakeherald-pinelakeherald.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\blackmetal.texture.txt'
+. Info: (internal) Overwriting existing file: 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\blackmetal.texture.txt'
+. Info: Wrote IM file 'C:\Documents and Settings\JTCommandCenter\Desktop\climax_2\trs\56PLclimax\56PLclimax_body\56PLclimax.im' with:
+numTriangles=23857
+numVertices=22937
+numChunks=16
+numAttachments=11
+skeleton = false (non-rigid will set 'false')
+influenceArray = false
+
+. Info: Process completed after 2.64 Seconds with 0 errors and 0 warnings

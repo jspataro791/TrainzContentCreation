@@ -1,0 +1,48 @@
+kuid                                      <kuid:191774:66791>
+username                                  "WM 6 Tender Unit"
+kind                                      "traincar"
+trainz-build                              2.9
+engine                                    0
+enginespec                                <kuid:-1:42004242>
+mesh-table {
+  default {
+    mesh                                  "wm6_tender_body\wm6_tender.im"
+    auto-create                           1
+  }
+  shadow {
+    mesh                                  "wm6_tender_body\shadow.im"
+  }
+}
+bogeys {
+  0 {
+    bogey                                 <kuid2:171456:149:1>
+    reversed                              0
+  }
+  1 {
+    bogey                                 <kuid2:171456:149:1>
+    reversed                              0
+  }
+  2 {
+    bogey                                 <kuid:191774:66792>
+    reversed                              0
+  }
+}
+mass                                      10000
+tender                                    1
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+license                                   "placeholder
+"
+organisation                              "SteamTrainz"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}
+kuid-table {
+  0                                       <kuid2:171456:149:1>
+  1                                       <kuid:191774:66792>
+  2                                       <kuid:-1:42004242>
+}

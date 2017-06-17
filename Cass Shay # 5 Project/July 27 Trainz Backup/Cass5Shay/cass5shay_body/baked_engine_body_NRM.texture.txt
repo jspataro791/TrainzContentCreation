@@ -1,0 +1,2 @@
+Primary=baked_engine_body_NRM.tga
+Tile=st

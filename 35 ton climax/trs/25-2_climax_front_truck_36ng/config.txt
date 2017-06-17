@@ -1,0 +1,25 @@
+kuid                                      <kuid:191774:21602>
+username                                  "25-2_climax_front_truck_36ng"
+kind                                      "bogey"
+trainz-build                              2.9
+mesh-table {
+  mesh {
+    mesh                                  "trucks.im"
+    auto-create                           1
+  }
+shadow {
+    mesh                                  "shadow.im"
+  }
+
+}
+animdist                                  1.8
+direct-drive                              0
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

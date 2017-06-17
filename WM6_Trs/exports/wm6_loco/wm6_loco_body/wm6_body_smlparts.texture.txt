@@ -1,0 +1,2 @@
+Primary=wm6_body_smlparts.tga
+Tile=st

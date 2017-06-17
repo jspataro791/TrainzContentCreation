@@ -1,0 +1,21 @@
+kuid                                      <kuid:191774:66781>
+username                                  "wm6_whistle"
+kind                                      "hornsound"
+trainz-build                              2.9
+obsolete-table {
+}
+three-part                                  1
+
+category-class                            "ZH"
+description                               "wm6_whistle"
+author                                    "John Spataro"
+license                                   "Feel free to modify the textures if you are modeling a different road.  However, please do not re-distribute the model without my permission and this original readme file.  Please e-mail me if you have any questions.  Thanks for downloading my models and I hope you enjoy them."
+organisation                              "ZapperWorks3d"
+contact-email                             "zapperjet@yahoo.com"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

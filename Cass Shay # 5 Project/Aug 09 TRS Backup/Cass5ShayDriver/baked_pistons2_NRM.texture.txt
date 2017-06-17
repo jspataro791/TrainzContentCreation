@@ -1,0 +1,2 @@
+Primary=baked_pistons2_NRM.tga
+Tile=st

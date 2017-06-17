@@ -1,0 +1,3 @@
+Primary=body_a_parts_bump.tga
+Tile=st
+NormalMapHint=normalmap

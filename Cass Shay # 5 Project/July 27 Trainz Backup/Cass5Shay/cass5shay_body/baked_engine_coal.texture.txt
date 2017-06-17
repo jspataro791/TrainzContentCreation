@@ -1,0 +1,2 @@
+Primary=baked_engine_coal.tga
+Tile=st

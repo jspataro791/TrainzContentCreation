@@ -1,0 +1,3 @@
+Primary=baked_sparky.tga
+Alpha=baked_sparky_alpha.tga
+Tile=st

@@ -1,0 +1,3 @@
+Primary=alphas.tga
+Alpha=alphas.tga
+Tile=st

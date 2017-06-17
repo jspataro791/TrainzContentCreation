@@ -1,0 +1,23 @@
+kuid                                      <kuid:191774:801>
+username                                  "emd_sw8_bogey"
+kind                                      "bogey"
+trainz-build                              2.9
+mesh-table {
+  default {
+    mesh                                  "emd_sw8_bogey.im"
+    auto-create                           1
+  }
+}
+animdist                                  2.1
+direct-drive                              0
+category-class                            "ZB"
+category-era                              "1970s"
+category-region                           "AT"
+license                                   "Modification/reskinning for public consumption is permitted with the exception for-profit use. Credit is appreciated but not required."
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

@@ -1,0 +1,3 @@
+Primary=number.tga
+Alpha=number.tga
+Tile=st

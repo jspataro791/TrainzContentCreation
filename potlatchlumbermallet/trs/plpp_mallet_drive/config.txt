@@ -1,0 +1,26 @@
+
+kuid							<kuid:191774:2102>
+animdist						3.2
+mesh-table {s
+	default {
+		mesh					"malletdrive.im"
+		auto-create				1
+	}
+}
+obsolete-table {
+}
+trainz-build						2.4
+category-class						"ZB"
+category-region-0					"USA"
+category-era-0						"1920s"
+asset-filename						"PLP&P 2-6-6-2 Driver"
+description						"PLP&P 2-6-6-2 Driver"
+username						"PLP&P 2-6-6-2 Driver"
+author							"J. Spataro"
+organisation						"none"
+contact-email						"none"
+contact-website						"none"
+license							"none"
+kind							"bogey"
+kuid-table {
+}

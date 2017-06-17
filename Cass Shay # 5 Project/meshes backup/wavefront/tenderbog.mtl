@@ -1,0 +1,46 @@
+# Blender3D MTL File: shay5.blend
+# Material Count: 4
+newmtl AO.014_baked_bogeyshaft.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_bogeyshaft.tga
+
+
+newmtl AO.017_baked_lineshaft.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_lineshaft.tga
+
+
+newmtl AO.009_baked_wheel.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_wheel.tga
+
+
+newmtl AO.012_baked_bogey.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_bogey.tga
+
+

@@ -1,0 +1,2 @@
+Primary=baked_pistons2.tga
+Tile=st

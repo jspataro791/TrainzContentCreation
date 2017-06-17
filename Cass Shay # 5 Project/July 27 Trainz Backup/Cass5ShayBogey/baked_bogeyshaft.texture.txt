@@ -1,0 +1,2 @@
+Primary=baked_bogeyshaft.tga
+Tile=st

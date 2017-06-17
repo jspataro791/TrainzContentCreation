@@ -1,0 +1,3 @@
+Primary=loco_shadow.tga
+Alpha=loco_shadow.tga
+Tile=st

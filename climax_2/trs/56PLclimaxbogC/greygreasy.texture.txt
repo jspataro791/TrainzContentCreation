@@ -1,0 +1,2 @@
+Primary=greygreasy.tga
+Tile=st

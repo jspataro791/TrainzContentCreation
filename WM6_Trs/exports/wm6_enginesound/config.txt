@@ -1,0 +1,27 @@
+﻿
+kind                                    "enginesound"
+kuid                                    <kuid:191774:60603>
+thumbnails
+{
+  0
+  {
+    image                               "$screenshot$.jpg"
+    width                               240
+    height                              180
+  }
+}
+
+trainz-build                            2.9
+number-slow-sounds 6
+isfading           1
+category-class                          "ZS"
+category-region                         "US"
+category-era                            "1920s;1930s;1940s;1950s;1960s"
+username                                "wm6_enginesound"
+author                                  "John Spataro"
+description                             "Sounds for Western Maryland Shay #6"
+license                                 "Nada"
+kuid-table
+
+{
+}

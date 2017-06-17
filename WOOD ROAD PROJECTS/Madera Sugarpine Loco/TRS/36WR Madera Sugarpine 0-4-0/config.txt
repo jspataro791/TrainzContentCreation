@@ -1,0 +1,96 @@
+kind							"traincar"
+kuid							<kuid:191774:214>
+bogey							<kuid:-10:149>
+bogey-1							<kuid:-10:149>
+bogey-2					                <kuid:191774:215>
+engine							1
+asset-filename						"36WR Madera Sugarpine Co. 0-4-0T"
+fonts							1
+light							1
+name							"36WR Madera Sugarpine Co. 0-4-0T"
+mass							12000
+company							"Madera Sugarpine Co."
+origin							"US"
+running-numbers {
+}
+enginespec						<kuid:96914:51006>
+enginesound						<kuid:44700:53093>
+hornsound						<kuid2:126323:54346:1>
+interior						<kuid:-3:10187>
+obsolete-table {
+}
+trainz-build						2.4
+
+queues {
+	load-coal {
+		size					4536
+		initial-count				4536
+		product-kuid				<kuid:44179:60013>
+	}
+}
+
+
+smoke0 {
+	attachment					"a.stack"
+	mode						"speed"
+	color						100,100,100,150
+        start                                           0
+        rate                                            25
+	velocity					2
+	lifetime					9
+        texture                                         <kuid:151325:60111>
+	minsize						0.5
+	maxsize						2
+}
+smoke1 {
+	attachment					"a.whistle"
+	mode						"whistle"
+	color						255,255,255,50
+	velocity					2
+	lifetime					1
+        texture                                         <kuid:151325:60111>
+	minsize						0.25
+	maxsize						0.5
+        start                                           0
+        rate                                            25
+}
+
+
+mesh-table {
+	default {
+		mesh				"36WRSugarpine_body/36WRSugarpine_body.IM"
+		auto-create				1
+        }
+
+}	
+
+category-class						"AT"
+category-region-0					"US"
+category-era-0						"1920s"
+category-era-1						"1930s"
+category-era-2						"1940s"
+category-era-3						"1950s"
+region							"US"
+description						"Madera Sugarpine Co. Geared 0-4-0 Tank Locomotive, Wood Rail"
+thumbnail						"0"
+username						"36WR Madera Sugarpine Co. 0-4-0T "
+author							"ZapperJet"
+organisation						"$"
+contact-email						"zapperjet@yahoo.com"
+contact-website						"N"
+license							"This model is Copyright 2008 by John Spataro (ZapperWorks 3D) and, though the source files have been uploaded along with this, should not be re-uploaded or sold for profit without permission from the author."
+
+kuid-table {
+	0						<kuid:96914:51199>
+	1						<kuid:96914:53199>
+        2						<kuid:191774:215>
+        3						<kuid:191774:502>
+        4				                <kuid:191774:501>
+        5                                               <kuid:96914:50723>
+        6						<kuid:96914:51199>
+        7						<kuid:62909:448>
+        8						<kuid:96914:54016>
+        9						<kuid:-3:10187>
+       10                                               <kuid:-3:10004>
+
+}

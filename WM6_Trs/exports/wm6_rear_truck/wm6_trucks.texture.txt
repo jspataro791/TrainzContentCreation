@@ -1,0 +1,2 @@
+Primary=wm6_trucks.tga
+Tile=st

@@ -1,0 +1,2 @@
+Primary=standardgray.tga
+Tile=st

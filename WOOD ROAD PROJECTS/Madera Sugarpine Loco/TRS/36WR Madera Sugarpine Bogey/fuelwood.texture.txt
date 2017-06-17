@@ -1,0 +1,2 @@
+Primary=fuelwood.tga
+Tile=st

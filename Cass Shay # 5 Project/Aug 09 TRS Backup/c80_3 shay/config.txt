@@ -1,0 +1,135 @@
+﻿
+kuid							<kuid:96914:51203>
+flowsize {
+	trainbrakepipe					170000
+	epreservoirpipe					0.1
+	no3pipe						0.1
+	no4pipe						0.1
+	auxreservoirvent				0.1
+	auxreservoir_no3				0.1
+	auxreservoir_trainbrakepipe			0.1
+	autobrakecylindervent				0.01
+	auxreservoir_autobrakecylinder			0.01
+	equaliser_mainreservoir				0.06
+	equaliservent					0.06
+	equaliserventhandleoff				0.1
+	equaliserventemergency				0.2
+	no3pipevent					0.5
+	no3pipe_mainreservoir				0.1
+	compressor					10
+	trainbrakepipe_reservoir			0.15
+	trainbrakepipevent				0.03
+	no3pipe_autobrakecylinder			0.01
+	epreservoirpipe_autobrakecylinder		0.1
+	mainreservoir_ep				0.1
+	vacuumbrakepipe					0.1
+	vacuumbrakepipereleasevent			0.1
+	vacuumbrakepipevent				0.1
+	vacuumbrakereservoir_vacuumbrakepipe		0.1
+	vacuumbrakecylinder_vacuumbrakepipe		0.1
+	highspeedexhauster_vacuumbrakepipe		0.1
+}
+volume {
+	scale						1
+	trainbrakepipe					0.5
+	epreservoirpipe					0.2
+	no3pipe						0.2
+	no4pipe						0.2
+	auxreservoir					0.0384678
+	autobrakecylinder				0.00969387
+	vacuumbrakepipe					0
+	vacuumbrakereservoir				0
+	vacuumbrakecylinder				0
+	mainreservoir					0.9
+	equaliser					0.5
+	independantbrakecylinder			0.0103239
+}
+pressure {
+	scale						1
+	compressor					0.0110477
+	mainreservoir					0.0110477
+	highspeedexhauster				0
+	brakepipe					0.00736041
+	brakeinitial					0.00414023
+	brakefull					0.00414023
+	indbrakefull					0.00414023
+	trainbrakepipe_start				0.00553261
+	epreservoirpipe_start				0
+	no3pipe_start					0
+	no4pipe_start					0
+	auxreservoir_start				0.00553261
+	autobrakecylinder_start				0.00414023
+	vacuumbrakepipe_start				0
+	vacuumbrakereservoir_start			0
+	vacuumbrakecylinder_start			0
+	mainreservoir_start				0.0110477
+	equaliser_start					0.00553261
+	independantbrakecylinder_start			0.00414023
+}
+mass {
+	scale						1
+	fuel						"6.2156e+006"
+}
+motor {
+	resistance					1.7
+	adhesion					9
+	maxvoltage					600
+	maxspeed					5.2
+	brakeratio					70000
+	max-accel					8000
+	max-decel					9000
+	throttle-notches				32
+	axle-count					25
+	surface-area					110
+	moving-friction-coefficient			0.03
+	air-drag-coefficient				0.0025
+}
+steam {
+	firebox-volume					1000
+	firebox-to-boiler-heat-flow			0.08
+	firebox-efficiency				0.7
+	boiler-volume					12500
+	minimum-volume					10125
+	maximum-volume					11250
+	initial-boiler-temperature			395
+	water-injector-rate				6
+	westinghouse-volume				20
+	main-reservoir-volume				92
+	piston-volume-min				2.34
+	piston-volume-max				35.17
+	piston-area					0.0923
+	piston-angular-offsets				0.0174,0.541,1.0646,1.5882,2.1118,2.6354,3.159,3.6826,4.2062,4.7298,5.2534,5.777
+	piston-to-atmosphere-flow			0.0013
+	boiler-to-piston-flow				0.0003
+	firebox-to-boiler-heat-flow-idle		0.003
+	burn-rate-idle					0.003
+	safety-valve-low-pressure			1367
+	safety-valve-low-flow				0.0035
+	safety-valve-high-pressure			1395
+	safety-valve-high-flow				0.00375
+	max-fire-coal-mass				600
+	max-fire-temperature				1325
+	shovel-coal-mass				15
+	burn-rate					0.065
+	fuel-energy					25.5
+}
+obsolete-table {
+}
+description						"C80-3 shay enginespec"
+trainz-build						2
+category-class						"ZE"
+category-region-0					"US"
+category-era-0						"1910s"
+kind							"steam-engine"
+asset-filename						"C80_3"
+username						"C80-3 shay"
+author							"Ben Neal"
+organisation						"Sub-Par Productions"
+contact-email						"bdaneal@yahoo.com"
+contact-website						"www.steammachine.com/bdaneal"
+license							"You may not sell this package. You may not claim it as your own. You may not upload this to any other website without my permission. You may repaint it if you wish, just give me credit for original mesh and textures.
+All items are presented as is, no warranty is included nor implied. I doubt this would cause any damage to your computer, but if it does I may not be held liable.
+The contents of this package are copyright 2008 Ben Neal, unless otherwise noted in the readme.
+Thank you for your cooperation."
+kuid-table {
+}

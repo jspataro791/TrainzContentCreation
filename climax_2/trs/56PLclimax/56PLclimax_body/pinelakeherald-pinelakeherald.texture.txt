@@ -1,0 +1,3 @@
+Primary=pinelakeherald.tga
+Alpha=pinelakeherald.tga
+Tile=st

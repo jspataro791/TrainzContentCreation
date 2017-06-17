@@ -1,0 +1,3 @@
+Primary=tender_alphas.tga
+Alpha=tender_alphas.tga
+Tile=st

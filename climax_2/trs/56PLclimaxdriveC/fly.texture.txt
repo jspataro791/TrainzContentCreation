@@ -1,0 +1,2 @@
+Primary=fly.tga
+Tile=st

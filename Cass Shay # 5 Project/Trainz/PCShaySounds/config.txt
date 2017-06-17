@@ -1,0 +1,23 @@
+﻿
+kuid							<kuid:191774:507>
+obsolete-table {
+}
+description						"Pacific Coast Shay 3 Cylinder Sounds"
+trainz-build						2.4
+category-class						"ZS"
+category-region-0					"AU"
+category-era-0						1960
+category-era-1						1970
+category-era-2						1980
+category-era-3						1990
+category-era-4						2000
+asset-filename						"pacifcoastshaysounds"
+username						"PCShaySounds"
+thumbnail						
+author							"John Spataro"
+organisation						"ZapperWorks3D"
+contact-email						"ZapperJet@yahoo.com"
+license							""
+kind							"enginesound"
+kuid-table {
+}

@@ -1,0 +1,4 @@
+Primary=shay_art_preview.bmp
+Tile=st
+Hint=Dynamic
+

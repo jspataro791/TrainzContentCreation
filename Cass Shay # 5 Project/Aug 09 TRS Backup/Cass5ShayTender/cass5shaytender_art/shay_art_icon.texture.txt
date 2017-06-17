@@ -1,0 +1,4 @@
+Primary=shay_art_icon.bmp
+Tile=st
+Hint=Dynamic
+alpha=shay_art_icon_a.bmp

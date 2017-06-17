@@ -1,0 +1,3 @@
+Primary=bogey_bump.tga
+Tile=st
+NormalMapHint=normalmap

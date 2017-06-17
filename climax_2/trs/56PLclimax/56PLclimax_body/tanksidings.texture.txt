@@ -1,0 +1,2 @@
+Primary=tanksidings.tga
+Tile=st

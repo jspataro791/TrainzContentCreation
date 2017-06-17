@@ -1,0 +1,2 @@
+Primary=engine_black.tga
+Tile=st

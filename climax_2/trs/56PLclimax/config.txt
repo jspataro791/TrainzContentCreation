@@ -1,0 +1,9 @@
+kuid                                      <kuid:191774:30211>
+trainz-build                              2.9
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

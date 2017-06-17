@@ -1,0 +1,2 @@
+Primary=boiler.tga
+Tile=st

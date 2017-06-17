@@ -1,0 +1,2 @@
+Primary=saddletankends.tga
+Tile=st

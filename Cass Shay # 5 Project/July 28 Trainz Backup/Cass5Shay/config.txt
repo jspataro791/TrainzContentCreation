@@ -1,0 +1,320 @@
+kind							"traincar"
+kuid							<kuid:191774:500
+bogey							<kuid:191774:501>
+bogey-1							<kuid:191774:501>
+bogey-2					                <kuid:191774:502>
+bogey-3                                                 <kuid:96914:50723>
+engine							1
+asset-filename						"cass5shay"
+fonts							1
+light							1
+nightmode						"lamp"
+light_color						255,230,145
+name							"cass5shay"
+mass							150000
+company							"Cass Scenic Railroad"
+origin							"US"
+running-numbers {
+}
+enginespec						<kuid:96914:51203>
+enginesound						<kuid:191774:507>
+hornsound						<kuid:191774:506>
+interior						<kuid:-3:10187>
+obsolete-table {
+}
+trainz-build						2.4
+
+queues {
+	load-coal {
+		size					4536
+		initial-count				4536
+		product-kuid				<kuid:44179:60013>
+	}
+}
+
+
+smoke0 {
+	attachment					"a.stack"
+	mode						"speed"
+	color						50,50,50,50
+        start                                           0
+        rate                                            25
+	velocity					2
+	lifetime					9
+        texture                                         <kuid:151325:60111>
+	minsize						1
+	maxsize						4
+}
+smoke1 {
+	attachment					"a.stack"
+	mode						"stack"
+	color						255,255,255,50
+	velocity					2
+	lifetime					9
+        texture                                         <kuid:151325:60111>
+	minsize						1
+	maxsize						4
+        start                                           0
+        rate                                            25
+}
+smoke2 {
+	attachment					"a.stack"
+	mode						"stack"
+	color						150,150,150,50
+	velocity					2
+	lifetime					9
+        texture                                         <kuid:151325:60111>
+	minsize						1
+	maxsize						4
+        start                                           0
+        rate                                            25
+}
+smoke3 {
+	attachment					"a.whistle"
+	mode						"whistle"
+	color						255,255,255,150
+	start						0
+	rate						25
+	velocity					5
+	lifetime					0.5
+        texture                                         <kuid:151325:60111>
+	minsize						0.3
+	maxsize						0.7
+}
+smoke4 {
+	attachment					"a.pvalveT02"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+
+}
+smoke5 {
+	attachment					"a.pvalveT01"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.167
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke6 {
+	attachment					"a.pvalveT03"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.334
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke7 {
+	attachment					"a.pvalveT02"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.5
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke8 {
+	attachment					"a.pvalveT01"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.668
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke9 {
+	attachment					"a.pvalveT03"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.835
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+
+
+
+
+smoke10 {
+	attachment					"a.pvalveB02"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.167
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke11 {
+	attachment					"a.pvalveB01"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.334
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke12 {
+	attachment					"a.pvalveB03"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.501
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke13 {
+	attachment					"a.pvalveB02"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.668
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke14 {
+	attachment					"a.pvalveB01"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0.835
+	period						0.164
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+smoke15 {
+	attachment					"a.pvalveB03"
+	mode						"anim"
+	color						255,255,255,125
+	start					        0
+	period						0.167
+	rate						75
+	velocity					2
+	lifetime					0.1
+	minsize						0.05
+	maxsize						0.2
+        texture                                         <kuid:151325:60111>
+        maxspeedkph                                     7
+}
+
+
+smoke16 {
+        attachment                                      "a.popvalve"
+	mode                                            "lowpressurevalve"
+	color						255,255,255,50
+	start						0
+	rate						50
+	velocity					3
+	lifetime					0.5
+        texture                                         <kuid:151325:60111>
+	minsize						0.2
+	maxsize						0.6
+}
+        
+
+
+
+
+
+
+mesh-table {
+	default {
+		mesh					"cass5shay_body/Cass5shay_body.im"
+		auto-create				1
+        }
+
+         additions {
+		mesh				      "cass5shay_body/cass5shay_body_additions.IM"
+		auto-create				1
+                }
+	}
+}	
+
+category-class						"AT"
+category-region-0					"US"
+category-era-0						"1920s"
+category-era-1						"1930s"
+category-era-2						"1940s"
+category-era-3						"1950s"
+region							"US"
+description						"Class C 80 Ton Shay, based on 100 Year old Cass #5."
+thumbnail						"0"
+username						"Cass Railroad Shay #5"
+author							"ZapperJet"
+organisation						"$"
+contact-email						"zapperjet@yahoo.com"
+contact-website						"N"
+license							"This model is Copyright 2008 by John Spataro (ZapperWorks 3D) and, though the source files have been uploaded along with this, should not be re-uploaded or sold for profit without permission from the author."
+
+kuid-table {
+	0						<kuid:96914:51199>
+	1						<kuid:96914:53199>
+        2						<kuid:191774:501>
+        3						<kuid:191774:502>
+        4				                <kuid:191774:501>
+        5                                               <kuid:96914:50723>
+        6						<kuid:96914:51199>
+        7						<kuid:62909:448>
+        8						<kuid:96914:54016>
+        9						<kuid:-3:10187>
+       10                                               <kuid:-3:10004>
+
+}

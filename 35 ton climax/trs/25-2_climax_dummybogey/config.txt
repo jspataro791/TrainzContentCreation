@@ -1,0 +1,21 @@
+kuid                                      <kuid:191774:21608>
+username                                  "25-2_climax_dummybogey"
+kind                                      "bogey"
+trainz-build                              2.9
+mesh-table {
+  wm6_tender_bogey {
+    mesh                                  "dummy.im"
+    auto-create                           1
+  }
+}
+animdist                                  0.9
+direct-drive                              1
+category-class                            "AS"
+author                                    "ZapperJet (John Spataro)"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}

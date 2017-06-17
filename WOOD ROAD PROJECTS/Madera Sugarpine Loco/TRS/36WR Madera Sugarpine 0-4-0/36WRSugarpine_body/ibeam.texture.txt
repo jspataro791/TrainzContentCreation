@@ -1,0 +1,2 @@
+Primary=ibeam.tga
+Tile=st

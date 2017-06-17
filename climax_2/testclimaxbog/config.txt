@@ -1,0 +1,38 @@
+kuid							<kuid:191774:90211>
+kind							"bogey"
+animdist						1
+description						"Test"
+category-class						"ZB"
+asset-filename						"Climax56TestDriver"
+category-era-0						"1940s"
+category-era-1						"1930s"
+category-era-2						"1920s"
+category-era-3						"1910s"
+category-era-4						"1900s"
+category-era-5						"1890s"
+category-era-6						"1880s"
+category-era-7						"1870s"
+category-region-0					"US"
+category-region-1					"AU"
+category-region-2					"NZ"
+obsolete-table {
+}
+trainz-build						1.3
+username						"Climax56TestDriver"
+author							"ZapperJet"
+organisation						
+contact-email						"none"
+contact-website						
+license							"No License"
+kuid-table {
+}
+mesh-table {
+	default {
+		mesh					"climaxtestbogey.im"
+		auto-create				1
+	}
+	shadow {
+		mesh					"Climax56TestDriver_shadow/Climax56TestDriver.pm"
+		auto-create				0
+	}
+}

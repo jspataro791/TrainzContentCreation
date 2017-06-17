@@ -1,0 +1,2 @@
+Primary=baked_engine_coal_NRM.tga
+Tile=st

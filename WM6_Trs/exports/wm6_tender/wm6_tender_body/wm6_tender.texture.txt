@@ -1,0 +1,2 @@
+Primary=wm6_tender.tga
+Tile=st

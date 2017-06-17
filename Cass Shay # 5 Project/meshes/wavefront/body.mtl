@@ -1,0 +1,66 @@
+# Blender3D MTL File: shay5.blend
+# Material Count: 6
+newmtl AO.019_baked_plate.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_plate.tga
+
+
+newmtl engine_grey_dimpl
+Ns 96.078431
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl AO.018_baked_sparky.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_sparky.tga
+
+
+newmtl AO.010_baked_engine_coal.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_engine_coal.tga
+
+
+newmtl engine_black_dimp
+Ns 96.078431
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl AO.011_baked_engine_body.tga
+Ns 182.352941
+Ka 0.070000 0.070000 0.070000
+Kd 0.640000 0.640000 0.640000
+Ks 0.250000 0.250000 0.250000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd baked_engine_body.tga
+
+

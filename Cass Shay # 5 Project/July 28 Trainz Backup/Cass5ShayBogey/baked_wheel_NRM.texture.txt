@@ -1,0 +1,2 @@
+Primary=baked_wheel_NRM.tga
+Tile=st

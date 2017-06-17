@@ -1,0 +1,2 @@
+Primary=baked_tender.tga
+Tile=st

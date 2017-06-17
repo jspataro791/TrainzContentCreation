@@ -1,0 +1,52 @@
+kuid                                      <kuid:191774:800>
+username                                  "SW8 Generic Reskin Kit"
+kind                                      "traincar"
+trainz-build                              2.9
+engine                                    1
+enginespec                                <kuid:-18:1103>
+enginesound                               <kuid:104722:53567>
+hornsound                                 <kuid:341335:100174>
+interior                                  <kuid:-18:1101>
+mesh-table {
+  default {
+    mesh                                  "emd_sw8_body/emd_sw8_body.lm"
+    auto-create                           1
+  }
+  shadow {
+    mesh                                  "emd_sw8_body\shadow.im"
+  }
+}
+bogeys {
+  0 {
+    bogey                                 <kuid:191774:801>
+    reversed                              1
+  }
+  1 {
+    bogey                                 <kuid:191774:801>
+    reversed                              1
+  }
+}
+fonts                                     2
+mass                                      112000
+smoke_fastlife                            0.8
+smoke_fastspeed                           3.2
+smoke_height                              1.7
+smoke_random                              2.5
+smoke_shade                               0.18
+smoke_slowlife                            6
+category-class                            "AL"
+license                                   "Modification/reskinning for public consumption is permitted with the exception for-profit use. Credit is appreciated but not required."
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}
+kuid-table {
+  0                                       <kuid:104722:53567>
+  1                                       <kuid:-18:1101>
+  2                                       <kuid:-18:1103>
+  3                                       <kuid:191774:801>
+  4                                       <kuid:341335:100174>
+}

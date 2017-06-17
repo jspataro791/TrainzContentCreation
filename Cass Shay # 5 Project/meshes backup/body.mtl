@@ -1,0 +1,46 @@
+newmtl AO.019_baked_plate.tga
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd baked_plate.tga
+
+newmtl engine_grey_dimpl
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+
+newmtl AO.018_baked_sparky.tga
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd baked_sparky.tga
+
+newmtl AO.010_baked_engine_coal.tga
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd baked_engine_coal.tga
+
+newmtl engine_black_dimp
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+
+newmtl AO.011_baked_engine_body.tga
+Ka 0.117647 0.117647 0.117647
+Kd 0.640000 0.640000 0.640000
+Ks 0.752941 0.752941 0.752941
+illum 2
+Ns 8
+map_Kd baked_engine_body.tga
+

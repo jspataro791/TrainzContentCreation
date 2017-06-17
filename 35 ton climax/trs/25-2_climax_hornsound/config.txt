@@ -1,0 +1,22 @@
+kuid                                      <kuid:191774:21607>
+username                                  "25-2_climax_hornsound"
+kind                                      "hornsound"
+trainz-build                              2.9
+two-part                                  1
+obsolete-table {
+}
+
+
+category-class                            "ZH"
+description                               "35-2_climax_hornsound"
+author                                    "John Spataro"
+license                                   "Placeholder"
+organisation                              "ZapperWorks3d"
+contact-email                             "zapperjet@yahoo.com"
+thumbnails {
+  0 {
+    image                                 "$screenshot$.jpg"
+    width                                 240
+    height                                180
+  }
+}
