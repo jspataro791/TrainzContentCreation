@@ -1,0 +1,2 @@
+Primary=engine_metal_leaking_normals.tga
+Tile=st

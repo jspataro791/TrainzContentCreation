@@ -1,0 +1,3 @@
+Primary=engine_number.tga
+Alpha=engine_number_alpha.tga
+Tile=st

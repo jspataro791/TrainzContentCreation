@@ -1,0 +1,2 @@
+Primary=engine_numberplate.tga
+Tile=st

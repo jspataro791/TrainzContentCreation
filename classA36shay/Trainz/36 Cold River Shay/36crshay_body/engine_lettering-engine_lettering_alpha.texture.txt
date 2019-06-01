@@ -1,0 +1,3 @@
+Primary=engine_lettering.tga
+Alpha=engine_lettering_alpha.tga
+Tile=st

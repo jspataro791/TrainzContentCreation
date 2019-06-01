@@ -1,0 +1,3 @@
+Primary=engine_glass.tga
+Alpha=engine_glass_alpha.tga
+Tile=st

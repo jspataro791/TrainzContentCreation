@@ -1,0 +1,3 @@
+Primary=shadow.tga
+Alpha=shadow_alpha.tga
+Tile=st

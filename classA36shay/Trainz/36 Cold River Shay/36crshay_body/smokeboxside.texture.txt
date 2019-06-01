@@ -1,0 +1,2 @@
+Primary=smokeboxside.tga
+Tile=st

@@ -1,0 +1,124 @@
+kind							"traincar"
+kuid							<kuid:191774:1866>
+bogey							<kuid:191774:1867>
+bogey-1							<kuid:191774:1868>
+bogey-2					                <kuid:191774:1869>
+bogey-3                                                 <kuid:96914:50723>
+engine							1
+asset-filename						"36crshay"
+fonts							1
+light                                                   1
+nightmode						"lamp"
+light_color						255,230,145
+name							"36crshay"
+mass							70000
+company							"Cold River Lumber Company"
+origin							"US"
+running-numbers {
+}
+enginespec						<kuid:96914:51199>
+enginesound						<kuid:191774:507>
+hornsound						<kuid:96914:54016>
+interior						<kuid:-3:10187>
+obsolete-table {
+}
+trainz-build						2.4
+mesh-table {
+	default {
+		mesh					"36crshay_body/36crshay_body.im"
+		auto-create				1
+		effects {
+		}
+	}
+}	
+
+smoke0 {
+	attachment					"a.smokestack"
+	mode						"speed"
+	color						10,10,10,250
+	start						0
+	rate						12
+	velocity					2
+	lifetime					9
+	minsize						0.5
+	maxsize						4
+}
+smoke1 {
+	attachment					"a.smokestack"
+	mode						"time"
+	color						240,240,240,220
+	loop						240
+	start						2
+	period						15
+	rate						20
+	velocity					2
+	lifetime					0.8
+	minsize						0.5
+	maxsize						0.7
+}
+smoke2 {
+	attachment					"a.smokestack"
+	mode						"time"
+	color						255,255,255,220
+	loop						1
+	start						1
+	period						15
+	rate						10
+	velocity					2
+	lifetime					9
+	minsize						0.5
+	maxsize						6
+}
+smoke3 {
+	attachment					"a.whistle"
+	mode						"whistle"
+	color						255,255,255,250
+	start						0
+	rate						12
+	velocity					6
+	lifetime					2
+	minsize						0.2
+	maxsize						2
+}
+queues {
+	load-coal {
+		size					2000
+		initial-count				2000
+		product-kuid				<kuid:44179:60013>
+	}
+	load-water {
+		size					2573
+		initial-count				2573
+		product-kuid				<kuid:-3:10004>
+	}
+}
+category-class						"AT"
+category-region-0					"US"
+category-era-0						"1920s"
+category-era-1						"1930s"
+category-era-2						"1940s"
+category-era-3						"1950s"
+region							"US"
+description						"36 inch gauge Cold River Lumber Class A Shay"
+thumbnail						"0"
+username						"36 Cold River Shay"
+author							"ZapperJet"
+organisation						"$"
+contact-email						"zapperjet@yahoo.com"
+contact-website						"N"
+license							"This model is Copyright 2008 by John Spataro (ZapperWorks 3D) and, though the source files have been uploaded along with this, should not be re-uploaded or sold for profit without permission from the author."
+
+kuid-table {
+	0						<kuid:96914:51199>
+	1						<kuid:96914:53199>
+        2						<kuid:191774:1867>
+        3						<kuid:191774:1868>
+        4				                <kuid:191774:1869>
+        5                                               <kuid:96914:50723>
+        6						<kuid:96914:51199>
+        7						<kuid:62909:448>
+        8						<kuid:96914:54016>
+        9						<kuid:-3:10187>
+       10                                               <kuid:-3:10004>
+
+}

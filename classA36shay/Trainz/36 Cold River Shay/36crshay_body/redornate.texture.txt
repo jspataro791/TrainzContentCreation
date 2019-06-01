@@ -1,0 +1,2 @@
+Primary=redornate.tga
+Tile=st
